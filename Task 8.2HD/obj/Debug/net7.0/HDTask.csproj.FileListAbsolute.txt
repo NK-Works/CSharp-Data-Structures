@@ -1,0 +1,15 @@
+E:\C#\DSA\HDTask\bin\Debug\net7.0\HDTask.exe
+E:\C#\DSA\HDTask\bin\Debug\net7.0\HDTask.deps.json
+E:\C#\DSA\HDTask\bin\Debug\net7.0\HDTask.runtimeconfig.json
+E:\C#\DSA\HDTask\bin\Debug\net7.0\HDTask.dll
+E:\C#\DSA\HDTask\bin\Debug\net7.0\HDTask.pdb
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.csproj.AssemblyReference.cache
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.AssemblyInfoInputs.cache
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.AssemblyInfo.cs
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.csproj.CoreCompileInputs.cache
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.dll
+E:\C#\DSA\HDTask\obj\Debug\net7.0\refint\HDTask.dll
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.pdb
+E:\C#\DSA\HDTask\obj\Debug\net7.0\HDTask.genruntimeconfig.cache
+E:\C#\DSA\HDTask\obj\Debug\net7.0\ref\HDTask.dll
