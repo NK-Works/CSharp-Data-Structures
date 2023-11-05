@@ -1,0 +1,15 @@
+E:\C#\DSA\Week6\BoxOfCoins\bin\Debug\net7.0\BoxOfCoins.exe
+E:\C#\DSA\Week6\BoxOfCoins\bin\Debug\net7.0\BoxOfCoins.deps.json
+E:\C#\DSA\Week6\BoxOfCoins\bin\Debug\net7.0\BoxOfCoins.runtimeconfig.json
+E:\C#\DSA\Week6\BoxOfCoins\bin\Debug\net7.0\BoxOfCoins.dll
+E:\C#\DSA\Week6\BoxOfCoins\bin\Debug\net7.0\BoxOfCoins.pdb
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.csproj.AssemblyReference.cache
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.AssemblyInfoInputs.cache
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.AssemblyInfo.cs
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.csproj.CoreCompileInputs.cache
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.dll
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\refint\BoxOfCoins.dll
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.pdb
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\BoxOfCoins.genruntimeconfig.cache
+E:\C#\DSA\Week6\BoxOfCoins\obj\Debug\net7.0\ref\BoxOfCoins.dll

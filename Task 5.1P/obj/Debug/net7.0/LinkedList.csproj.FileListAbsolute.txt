@@ -1,0 +1,15 @@
+E:\C#\DSA\Week5\LinkedList\bin\Debug\net7.0\LinkedList.exe
+E:\C#\DSA\Week5\LinkedList\bin\Debug\net7.0\LinkedList.deps.json
+E:\C#\DSA\Week5\LinkedList\bin\Debug\net7.0\LinkedList.runtimeconfig.json
+E:\C#\DSA\Week5\LinkedList\bin\Debug\net7.0\LinkedList.dll
+E:\C#\DSA\Week5\LinkedList\bin\Debug\net7.0\LinkedList.pdb
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.csproj.AssemblyReference.cache
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfoInputs.cache
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfo.cs
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.dll
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\refint\LinkedList.dll
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.pdb
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\LinkedList.genruntimeconfig.cache
+E:\C#\DSA\Week5\LinkedList\obj\Debug\net7.0\ref\LinkedList.dll
