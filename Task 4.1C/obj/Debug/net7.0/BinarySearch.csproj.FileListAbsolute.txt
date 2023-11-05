@@ -1,0 +1,15 @@
+E:\C#\DSA\Week4\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+E:\C#\DSA\Week4\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+E:\C#\DSA\Week4\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+E:\C#\DSA\Week4\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+E:\C#\DSA\Week4\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+E:\C#\DSA\Week4\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll

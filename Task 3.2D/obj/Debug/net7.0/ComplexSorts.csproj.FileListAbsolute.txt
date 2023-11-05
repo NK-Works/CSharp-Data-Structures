@@ -1,0 +1,15 @@
+E:\C#\DSA\Week3\ComplexSorts\bin\Debug\net7.0\ComplexSorts.exe
+E:\C#\DSA\Week3\ComplexSorts\bin\Debug\net7.0\ComplexSorts.deps.json
+E:\C#\DSA\Week3\ComplexSorts\bin\Debug\net7.0\ComplexSorts.runtimeconfig.json
+E:\C#\DSA\Week3\ComplexSorts\bin\Debug\net7.0\ComplexSorts.dll
+E:\C#\DSA\Week3\ComplexSorts\bin\Debug\net7.0\ComplexSorts.pdb
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.csproj.AssemblyReference.cache
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.AssemblyInfoInputs.cache
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.AssemblyInfo.cs
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.csproj.CoreCompileInputs.cache
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.dll
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\refint\ComplexSorts.dll
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.pdb
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ComplexSorts.genruntimeconfig.cache
+E:\C#\DSA\Week3\ComplexSorts\obj\Debug\net7.0\ref\ComplexSorts.dll

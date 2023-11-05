@@ -1,0 +1,35 @@
+/* This code is made by Anneshu Nag, Student ID- 2210994760  */
+/*                    Dated- 26/08/2023                      */
+
+/* This is the code for Insertion Sort Algorithm*/
+using System;
+using System.Collections.Generic;
+
+namespace Vector
+{
+    public class InsertionSort : ISorter
+    {
+        public void Sort<K>(K[] sequence, IComparer<K> comparer) where K : IComparable<K>
+        {
+            // If there is no element in the array then do this 
+            if (sequence.Length == 0) return;  
+
+            // Outer loop iterates passes
+            for (int i = 1; i < sequence.Length; i++)
+            {
+                K nextElement = sequence[i];
+                int j = i - 1;
+
+                // Move elements that are greater than 'nextElement' one position to the right until we find the correct position for 'nextElement'
+                while (j >= 0 && comparer.Compare(sequence[j], nextElement) > 0)
+                {
+                    sequence[j + 1] = sequence[j];   // Move the element to the right
+                    j--;   // Move one position to the left
+                }
+
+                // Place 'nextElement' in its correct sorted position
+                sequence[j + 1] = nextElement;
+            }
+        }
+    }
+}

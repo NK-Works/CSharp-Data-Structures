@@ -1,0 +1,41 @@
+/* This code is made by Anneshu Nag, Student ID- 2210994760  */
+/*                    Dated- 26/08/2023                      */
+
+/* This is the code for Selection Sort Algorithm*/
+using System;
+using System.Collections.Generic;
+
+namespace Vector
+{
+    public class SelectionSort : ISorter
+    {
+        public void Sort<K>(K[] sequence, IComparer<K> comparer) where K : IComparable<K>
+        {
+            // If there is no element in the array then do this 
+            if (sequence.Length == 0) return;  
+
+            // Outer loop iterates over the passes
+            for (int i = 0; i < sequence.Length - 1; i++)
+            {
+                int baseIdx = i; // Index of the current "minimum" element
+
+                // Getting the index of the minimum element in the unsorted array
+                for (int j = i + 1; j < sequence.Length; j++)
+                {
+                    if (comparer.Compare(sequence[baseIdx],sequence[j]) > 0)
+                    {
+                        baseIdx = j;   // Update the index of the minimum element
+                    }
+                }
+
+                // If the current minimum element is not at its correct position (i), swap it with the element at index i
+                if (baseIdx != i)
+                {
+                    K tempStore = sequence[i];
+                    sequence[i] = sequence[baseIdx];
+                    sequence[baseIdx] = tempStore;
+                }
+            }
+        }
+    }
+}

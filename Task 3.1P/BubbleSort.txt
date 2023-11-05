@@ -1,0 +1,36 @@
+/* This code is made by Anneshu Nag, Student ID- 2210994760  */
+/*                    Dated- 27/08/2023                      */
+
+/* This is the code for Bubble Sort Algorithm*/
+
+using System;
+using System.Collections.Generic;
+
+namespace Vector
+{
+    public class BubbleSort : ISorter
+    {
+        public void Sort<K>(K[] sequence, IComparer<K> comparer) where K : IComparable<K>
+        {
+            // If there is no element in the array then do this 
+            if (sequence.Length == 0) return;  
+
+            // Outer loop for the passes (Length - 1) times or (1 to length)
+            for (int i = 1; i < sequence.Length; i++)
+            {
+                // Inner loop iterates over the unsorted part of the sequence (Length  - i)
+                for (int j = 0; j < sequence.Length - i; j++)
+                {
+                    // Compare the current element with the next element
+                    if (comparer.Compare(sequence[j], sequence[j + 1]) > 0)
+                    {
+                        // If the current element is greater than the next element, swap them to move the larger element towards the end
+                        K tempStore = sequence[j];
+                        sequence[j] = sequence[j + 1];
+                        sequence[j + 1] = tempStore;
+                    }
+                }
+            }
+        }
+    }
+}
